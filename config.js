@@ -50,10 +50,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ Panda-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'Hashan┃ᴮᴼᵀ' 
-global.author = '@AsliHashan' 
+global.author = '@Hashan' 
 global.menuvid = 'https://telegra.ph//file/fff37bbd3114a90f4a8fe.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/hashan._.sampath/\n' 
 global.dygp = 'https://wa.me/qr/P6WADRJOKAFUK1'
