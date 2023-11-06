@@ -6,7 +6,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
   if (!args[0].match(/tiktok/gi)) throw `Verify that the link is from TikTok`;
 
  
-  let txt = 'Here your Requested video';
+  let txt = 'ඉඳා අරගනිම් 😾👍';
 
   try {
     const { author: { nickname }, video, description } = await tiktokdl(args[0]);
