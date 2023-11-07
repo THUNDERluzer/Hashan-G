@@ -779,7 +779,7 @@ export async function presenceUpdate(presenceUpdate) {
     const status = presenceUpdate.presences[nouser]?.lastKnownPresence;
     const user = global.db.data.users[nouser[0]];
 
-    if (user?.afk && status === "composing" && user.afk > -1) {
+    if (user?.afk && status === "unavilable" && user.afk > -1) {
         if (user.banned) {
             user.afk = -1;
             user.afkReason = "User Banned Afk";
