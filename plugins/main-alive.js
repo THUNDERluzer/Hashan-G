@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
     // Sound
     let name = m.pushName || conn.getName(m.sender)
-    var vn = "https://github.com/THUNDERluzer/MY-FILES/raw/main/Guru4.mp3"
+    var vn = "https://github.com/THUNDERluzer/MY-FILES/raw/main/habibi.mp3"
     let url = "https://wa.me/qr/P6WADRJOKAFUK1"
     let murl = "https://wa.me/qr/P6WADRJOKAFUK1"
     let img = "https://telegra.ph/file/7721cf222f9790f3fcd1b.jpg"
